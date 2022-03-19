@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hajiyevahid
 - 👀 I’m interested in C# and .NET platform!
-- 🌱 I’m currently learning .Net
+- 🌱 I’m currently learning .Net and doing internship at Accenture Baltics
 - 💞️ I’m looking to collaborate on .NET projects
 - 📫 How to reach me: Linkedin : Vahid Hajiyev
 
